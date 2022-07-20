@@ -8,5 +8,8 @@
 # Dependency directories
 node_modules
 
+# Public Folder
+/public
+
 # Compiled sanity studio
 /dist
